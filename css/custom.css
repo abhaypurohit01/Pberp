@@ -6817,7 +6817,7 @@ textarea {
   width: 255px;
   display: table-cell;
   vertical-align: middle;
-  padding: 0px 30px; }
+  padding: 0px 15px; }
 
 .right-side-menu-bar {
   box-shadow: 0 1px 15px 1px rgba(69, 65, 78, 0.1);
@@ -10039,7 +10039,7 @@ footer.blockquote-footer.text-light {
 	display:none;
 }
 .top-dash-area {
-    background-color: #0f64ce;
+    background-color: #0d57b6;
     margin-top: -15px;
     padding-top: 30px;
     height: 120px;
@@ -10213,12 +10213,9 @@ li.top-main-txt{
     display: block;
     margin: auto;
 }
+
 /* =================== Abhay 29-04-2019 Css Ends Here ======================= */
-
-
 
 .sidebar-mini:not(.sidebar-mini-expand-feature).sidebar-collapse .sidebar-menu > li.active:hover > a > span:not(.pull-right){
   left:65px;
 }
-
-
