@@ -10217,3 +10217,8 @@ background-color:#1368dc;
 
 
 
+.sidebar-mini:not(.sidebar-mini-expand-feature).sidebar-collapse .sidebar-menu > li.active:hover > a > span:not(.pull-right){
+  left:65px;
+}
+
+
