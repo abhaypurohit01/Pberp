@@ -10138,9 +10138,10 @@ margin-bottom: 0;
 	margin-bottom:20px;
 }
 li.top-main-txt{
-    font-size: 14px;
-    padding-left: 10px;
-    padding-bottom: 5px;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 5px;
 	color:#9c9c9c;
 }
 .left-side > ul {
