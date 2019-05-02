@@ -10172,11 +10172,11 @@ li.top-main-txt{
     margin-left: 250px;
 }	
 .right-side-menu-bar{
-background-color:#1368dc;
+  background-color:#1368dc;
 }	
 .left-side ul li a{
-	color: #5f6062;
-    padding: 12px 12px 12px 20px;
+	color: #8c8c8c;
+  padding: 12px 12px 12px 20px;
 }
 .top-counter-sec .counter-card.shadow{
 	background-color: #f1f1f1;
